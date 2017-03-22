@@ -152,3 +152,6 @@ local.properties
 .scala_dependencies
 .worksheet
 
+.idea/
+kafka-benchmark-listener/
+kafka-benchmark-publisher/
